@@ -1,16 +1,16 @@
 # Rutas 
 
 - /api/v1/posts
--- GET
--- POST
+- - GET
+- - POST
 - /api/v1/posts/:id 
--- GET
+- - GET
 - /api/v1/users/me/posts
--- GET
+- - GET
 - /api/v1/users/me/posts/:id 
--- GET
--- PUT
--- DELETE
+- - GET
+- - PUT
+- - DELETE
 
 - /api/v1/users
 - /api/v1/users/:id
